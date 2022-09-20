@@ -68,30 +68,7 @@ def user_input():
 
 
 input = user_input()
-st.write(''' 
-        Pricelist
 
-        Phone Service $20
-
-        Multiple Lines $ 5
-
-        Internet Service DSL $25
-
-        Internet Service Fiber Optic $50
-
-        Online Security $5
-
-        Online Backup $5
-
-        Device Protection $5
-
-        Tech Support $5
-
-        Streaming TV $10
-
-        Streaming Movies $10
-
-''' )
 st.write('User Input')
 st.write(input)
 
